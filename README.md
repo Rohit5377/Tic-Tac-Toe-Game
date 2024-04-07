@@ -7,6 +7,9 @@ Single-player and multiplayer modes available.<br>
 Clean and intuitive user interface.<br>
 Responsive design, suitable for desktop and mobile devices.
 
+**Demo**<br>
+Experience the live demo here :-  https://rohit5377.github.io/Tic-Tac-Toe-Game/
+
 **Usage**<br>
 Click on a cell to make your move.<br>
 The game automatically switches turns between X and O.<br>
@@ -18,6 +21,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request w
 
 **Credits**<br>
 This project was created by Rohit Kumar.
-
-**To Run This Game**<br>
-click on :- https://rohit5377.github.io/Tic-Tac-Toe-Game/
