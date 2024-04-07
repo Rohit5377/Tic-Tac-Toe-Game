@@ -18,3 +18,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request w
 
 **Credits**<br>
 This project was created by Rohit Kumar.
+
+**To Run This Game**<br>
+click on :- https://rohit5377.github.io/Tic-Tac-Toe-Game/
