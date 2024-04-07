@@ -12,3 +12,9 @@ Click on a cell to make your move.<br>
 The game automatically switches turns between X and O.<br>
 The first player to get three of their marks in a row, column, or diagonal wins the game.<br>
 If all cells are filled and no player has won, the game ends in a draw.<br>
+
+**Contributing**<br>
+Contributions are welcome! Feel free to open an issue or submit a pull request with any improvements or bug fixes.
+
+**Credits**<br>
+This project was created by Rohit Kumar.
