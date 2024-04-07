@@ -6,9 +6,7 @@ It provides a fun and interactive way to play the game either solo or against an
 **Features**
 
 Single-player and multiplayer modes available.
-
 Clean and intuitive user interface.
-
 Responsive design, suitable for desktop and mobile devices.
 
 **Usage**
